@@ -1,0 +1,5 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m8-sprites\demos\SpriteEngine_All\SpriteEngine\SpriteEngine\bin\SpriteEngine.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m8-sprites\demos\SpriteEngine_All\SpriteEngine\SpriteEngine\bin\SpriteEngine.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m8-sprites\demos\SpriteEngine_All\SpriteEngine\SpriteEngine\obj\Debug\SpriteEngine.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m8-sprites\demos\SpriteEngine_All\SpriteEngine\SpriteEngine\obj\Debug\SpriteEngine.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m8-sprites\demos\SpriteEngine_All\SpriteEngine\SpriteEngine\obj\Debug\SpriteEngine.csprojResolveAssemblyReference.cache

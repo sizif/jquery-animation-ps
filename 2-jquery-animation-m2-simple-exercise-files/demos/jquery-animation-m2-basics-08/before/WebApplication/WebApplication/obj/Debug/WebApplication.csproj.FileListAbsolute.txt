@@ -1,0 +1,4 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\before\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\before\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\before\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\before\WebApplication\WebApplication\obj\Debug\WebApplication.pdb

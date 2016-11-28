@@ -1,0 +1,12 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\after\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\after\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\after\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v8\after\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v9\after\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v9\after\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v9\after\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v9\after\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-09\after\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-09\after\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-09\after\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-09\after\WebApplication\WebApplication\obj\Debug\WebApplication.pdb

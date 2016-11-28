@@ -1,0 +1,16 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\bin\Fade.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\bin\Fade.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\bin\Fade.xml
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\obj\Debug\Fade.Resources.resources
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\obj\Debug\Fade.vbproj.GenerateResource.Cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\obj\Debug\Fade.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\obj\Debug\Fade.xml
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2\demos\v3\before\Fade\Fade\obj\Debug\Fade.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\bin\Fade.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\bin\Fade.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\bin\Fade.xml
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\obj\Debug\Fade.Resources.resources
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\obj\Debug\Fade.vbproj.GenerateResource.Cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\obj\Debug\Fade.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\obj\Debug\Fade.xml
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m2-basics\demos\jquery-animation-m2-03\before\Fade\Fade\obj\Debug\Fade.pdb

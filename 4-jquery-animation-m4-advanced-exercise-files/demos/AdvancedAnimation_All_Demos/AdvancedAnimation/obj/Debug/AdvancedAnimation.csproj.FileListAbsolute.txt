@@ -1,0 +1,5 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m4-advanced\demos\AdvancedAnimation\AdvancedAnimation\bin\AdvancedAnimation.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m4-advanced\demos\AdvancedAnimation\AdvancedAnimation\bin\AdvancedAnimation.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m4-advanced\demos\AdvancedAnimation\AdvancedAnimation\obj\Debug\AdvancedAnimation.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m4-advanced\demos\AdvancedAnimation\AdvancedAnimation\obj\Debug\AdvancedAnimation.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m4-advanced\demos\AdvancedAnimation\AdvancedAnimation\obj\Debug\AdvancedAnimation.pdb

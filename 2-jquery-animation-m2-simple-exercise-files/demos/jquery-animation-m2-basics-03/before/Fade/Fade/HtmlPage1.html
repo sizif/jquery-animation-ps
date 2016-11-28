@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.0.3.min.js"></script>
+    <style>
+        #box {
+            width: 200px;
+            height: 200px;
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <p>Text above animation</p>
+    <input type="button" class="btn" value="Animate" />
+    <div id="animate">
+        <p>Text to animate.</p>
+        <div id="box"></div>
+    </div>
+    <p>Text below animation</p>
+
+    <script>
+        $('input').click(function () {
+            $('#animate').toggle('slow');
+        });
+    </script>
+</body>
+</html>

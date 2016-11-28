@@ -1,0 +1,5 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m7-pie\demos\AnimatedPieChart_All_Demos\AnimatedPieChart_All_Demos\bin\AnimatedPieChart_All_Demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m7-pie\demos\AnimatedPieChart_All_Demos\AnimatedPieChart_All_Demos\bin\AnimatedPieChart_All_Demos.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m7-pie\demos\AnimatedPieChart_All_Demos\AnimatedPieChart_All_Demos\obj\Debug\AnimatedPieChart_All_Demos.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m7-pie\demos\AnimatedPieChart_All_Demos\AnimatedPieChart_All_Demos\obj\Debug\AnimatedPieChart_All_Demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\jquery-animation\jquery-animation-m7-pie\demos\AnimatedPieChart_All_Demos\AnimatedPieChart_All_Demos\obj\Debug\AnimatedPieChart_All_Demos.pdb
